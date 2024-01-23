@@ -4,7 +4,7 @@
  */
 var minFallingPathSum = function (matrix) {
   for (let col = 0; col < matrix.length; col++) {
-    // console.log(matrix[col]);
+    console.log(matrix[col])
     for (let row = 0; row < matrix[col].length; row++) {
       console.log(matrix[col][row]);
     }
