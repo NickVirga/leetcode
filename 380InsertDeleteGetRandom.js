@@ -33,3 +33,5 @@ RandomizedSet.prototype.getRandom = function() {
  * var param_2 = obj.remove(val)
  * var param_3 = obj.getRandom()
  */
+
+var obj = new RandomizedSet()
